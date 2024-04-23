@@ -51,6 +51,7 @@ Any pull request is welcome, please reach out these repositories:
  * Documentation: <https://github.com/nmstate/nmstate.github.io>
  * Kubernetes API: <https://github.com/nmstate/kubernetes-nmstate>
  * Nmstate OpenShift Web Console Plugin: <https://github.com/nmstate/nmstate-console-plugin>
+ * Nmstate YAMLsmith AI Project: <https://github.com/nmstate/nmstate-yamlsmith>
 
 For requesting new new repository, please use pull request against
 <https://github.com/nmstate/.github/> after below requirements been fulfilled:
